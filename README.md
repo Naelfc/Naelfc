@@ -24,6 +24,5 @@ Checkboxes
 ![captura de pantalla](https://github.com/Naelfc/Naelfc/blob/main/descarga.jpg)
 
  [Canal del Tito Shinbu](https://www.youtube.com/@ShinbuIE)
-
-<a href='https://yotu.be/XiTe_o7mHgI' objetivo='blanco '>
-<imagen ancho='30%' origen='
+![captura de pantalla](https://raw.githubusercontent.com/Naelfc/Naelfc/refs/heads/main/channels4_profile.jpg')
+<a href='https://yotu.be/XiTe_o7mHgI' objetivo='blanco '> <imagen ancho='30%' origen='https://raw.githubusercontent.com/Naelfc/Naelfc/refs/heads/main/channels4_profile.jpg' alt='Logo canal'/> </a>
