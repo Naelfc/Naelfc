@@ -1,4 +1,6 @@
-# Hola, mi nombre es Nael 👋
+# Bienvenido a mi perfil #👋
+**Mi nombre es Nael**
+
 **Soy estudiante del cesar manrique, actualmente estoy estudiando un grado medio de informática**
 
 *Me interesa la Inteligencia artificial* 
@@ -15,6 +17,7 @@ No Me Gusta:
 
 Checkboxes
 - [ ] Escribir lo que quieras
+- [ ] Que opinas de lo que vez
 
 <!--Hola--> Código / comentario no visible +
 
