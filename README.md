@@ -16,7 +16,7 @@ No Me Gusta:
 
 
 Checkboxes
-- [ ] Escribir lo que quieras
+- [ ] ¿Te interesa algo?
 - [ ] Que opinas de lo que vez
 
 <!--Hola--> Código / comentario no visible +
@@ -24,3 +24,6 @@ Checkboxes
 ![captura de pantalla](https://github.com/Naelfc/Naelfc/blob/main/descarga.jpg)
 
  [Canal del Tito Shinbu](https://www.youtube.com/@ShinbuIE)
+
+<a href='https://yotu.be/XiTe_o7mHgI' objetivo='blanco '>
+<imagen ancho='30%' origen='
