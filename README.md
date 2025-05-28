@@ -22,4 +22,6 @@ Checkboxes
 
  [Canal del Tito Shinbu](https://www.youtube.com/@ShinbuIE)
  
+ [Video de un mod español](https://www.youtube.com/watch?v=sztmgphsGGA)
+ 
 ![captura de pantalla](https://github.com/Naelfc/Naelfc/blob/main/channels4_profile.jpg)
