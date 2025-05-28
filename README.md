@@ -25,7 +25,3 @@ Checkboxes
  [Video de un mod español](https://www.youtube.com/watch?v=sztmgphsGGA)
  
 ![captura de pantalla](https://github.com/Naelfc/Naelfc/blob/main/channels4_profile.jpg)
-
-<a href='https://youtu.be/sztmgphsGGA' objetivo='_blanco'>
-<imagen ancho='30%' origen='https://github.com/user-attachments/assets/196bf7ac-8f1a-4fff-a413-8e3ad9be506b' alt='Crossovers'/>
-</a>
