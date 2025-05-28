@@ -25,3 +25,5 @@ Checkboxes
  [Video de un mod español](https://www.youtube.com/watch?v=sztmgphsGGA)
  
 ![captura de pantalla](https://github.com/Naelfc/Naelfc/blob/main/channels4_profile.jpg)
+
+![image](https://github.com/user-attachments/assets/15a1fec2-05b0-4616-b5eb-87a577ab86a1)
