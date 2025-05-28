@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, mi nombre es Nael 👋
+**Soy estudiante del cesar manrique, actualmente estoy estudiando un grado medio de informática**
 
-<!--
-**Naelfc/Naelfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Me interesa la Inteligencia artificial* 
 
-Here are some ideas to get you started:
+Me Gusta:
+- Jugar videojuegos
+- ver anime
+- peliculas 
+- series
+  
+No Me Gusta:
+- las cosas de terror
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Checkboxes
+- [ ] Escribir lo que quieras
+
+<!--Hola--> Código / comentario no visible +
