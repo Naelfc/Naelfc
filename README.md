@@ -18,4 +18,4 @@ Checkboxes
 
 <!--Hola--> Código / comentario no visible +
 
-!(imagen jpg)(https://github.com/Naelfc/Naelfc/blob/main/descarga.jpg) 
+![captura de pantalla](https://github.com/Naelfc/Naelfc/blob/main/descarga.jpg)
